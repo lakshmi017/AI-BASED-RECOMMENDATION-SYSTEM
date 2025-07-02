@@ -71,3 +71,4 @@ AI technologies, especially machine learning and deep learning, significantly im
 An **AI-based Recommendation System** is a smart and adaptive tool that significantly enhances the user experience by offering personalized suggestions. It combines data science, machine learning, and user behavior analytics to deliver relevant recommendations across various platforms. As digital ecosystems continue to grow, the role of AI in powering these systems becomes increasingly vital—not only for improving user satisfaction but also for driving business success and innovation.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/d9b9d805-b384-4eab-b51e-eabc33a42066)
